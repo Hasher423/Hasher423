@@ -43,7 +43,7 @@ const approach = {
 **My Solution:**
 - Architected complete **video upload pipeline with Cloudinary** for optimized media processing and CDN delivery
 - Implemented **channel creation system** with user profiles, branding, and content management
-- Built **advanced search functionality** with MongoDB indexing for fast video discovery
+- Built **advanced search functionality** with MongoDB indexing for fast video/channel discovery
 - Designed **Redux Toolkit state management** for predictable global state across complex features
 - Created **subscription model** with real-time notifications and updates
 - Developed **responsive UI** with seamless video playback and infinite scroll
@@ -112,15 +112,15 @@ Real-Time  → Socket.io • WebRTC • MediaSoup
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasher423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasher423&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasher423&theme=tokyonight" alt="GitHub Activity"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasher423&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasher423&theme=tokyonight" alt="Top Languages" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasher423&theme=tokyonight" alt="Commits by Language" width="400"/>
 </p>
 
 ---
